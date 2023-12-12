@@ -25,3 +25,20 @@ The Indian Premier League (IPL) (also known as the TATA IPL for sponsorship reas
 * Visualize trends, patterns, and insights in data through graphs and charts.
 
 # Key Insights
+* Preferred toss Decisions: findinf Majority of teams prefer batting or fielding.
+  
+* Which teams Won most of the matches in IPL 2022.
+  
+* Check the top scores in IPL 2022 with      to highscore .
+  
+* Maximum Scored match in IPL 2022 (First Innings).
+  
+* Minimum Scoreed Match in IPL 2022 (First Innings).
+  
+* Top 5 players of the Match.
+
+* Top 5 Best Bowlers in IPL 2022.
+  
+* Maximum Scored match in IPL 2022 (Second Innings).
+
+* Minimum scored Match in IPL 2022(Second Innings).
