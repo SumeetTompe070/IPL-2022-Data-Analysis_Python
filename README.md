@@ -1,5 +1,6 @@
 # IPL-2022-Data-Analysis_Python
 
+The Indian Premier League (IPL) (also known as the TATA IPL for sponsorship reasons) is a men's Twenty20 (T20) cricket league that is annually held in India and contested by ten city-based franchise teams.The BCCI founded the league in 2007. The competition is usually held in summer between March and May every year. It has an exclusive window in the ICC Future Tours Programme due to fewer international cricket tours happening during IPL seasons worldwide.
 
 
 
@@ -22,3 +23,5 @@
 * Data Visualization: Utilize libraries like Matplotlib, Seaborn, and Plotly for creating various types of plots.
 
 * Visualize trends, patterns, and insights in data through graphs and charts.
+
+# Key Insights
