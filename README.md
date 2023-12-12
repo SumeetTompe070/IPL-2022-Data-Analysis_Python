@@ -29,7 +29,7 @@ The Indian Premier League (IPL) (also known as the TATA IPL for sponsorship reas
   
 * Which teams Won most of the matches in IPL 2022.
   
-* Check the top scores in IPL 2022 with      to highscore .
+* Check the top scores in IPL 2022 with compareto highscore .
   
 * Maximum Scored match in IPL 2022 (First Innings).
   
@@ -42,3 +42,5 @@ The Indian Premier League (IPL) (also known as the TATA IPL for sponsorship reas
 * Maximum Scored match in IPL 2022 (Second Innings).
 
 * Minimum scored Match in IPL 2022(Second Innings).
+
+The IPL is the most-popular cricket league in the world; in 2014, it was ranked sixth by average attendance among all sports leagues.In 2010, the IPL became the first sporting event to be broadcast live on YouTube.The brand value of the IPL in 2022 was ₹90,038 crore (US$11 billion).
